@@ -3,7 +3,7 @@
 
 - 🌚 I'm an ex Emirates crew, now developer. I love to learn anything related to tech, I love gym and yoga, and I'm addicted to iced matcha lattes. 
 - 🔭 I’m currently working on my portfolio and some projects to display.
-- 🌱 I’m currently learning and building with SASS and the MERN stack.
+- 🌱 I’m currently learning and building an apparel store with React.
 - 📫 How to reach me: shay[dot]asanova[at]gmail.com
 - ⚡ Fun fact: Did you know that one of Saturn's moon - [mimas](https://en.wikipedia.org/wiki/Mimas_(moon)), lookes exacty like the "DEATH STAR"? If you did, lets be friends.
 

@@ -1,4 +1,4 @@
-![](https://github.com/shay122990/shay122990/blob/master/Shay%20Asanova.png)
+<!-- ![](https://github.com/shay122990/shay122990/blob/master/Shay%20Asanova.png) -->
 ### Hi there 👋
 
 - 🌚 I'm Shay, Im an ex Emirates cabin crew now Frontend developer in Dubai.

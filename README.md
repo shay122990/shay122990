@@ -1,11 +1,11 @@
 ![](https://github.com/shay122990/shay122990/blob/master/Shay%20Asanova.png)
 ### Hi there 👋
 
-- 🌚 I'm an ex Emirates crew, now developer. I love to learn anything related to tech, I love gym and yoga, and I'm addicted to iced matcha lattes. 
-- 🔭 I’m currently working on my portfolio and some projects to display.
-- 🌱 I’m currently learning and building an apparel store with React.
+- 🌚 I'm Shay, Im an ex Emirates cabin crew now Frontend developer in Dubai.
+- 🔭 I’m open to frontend positions and freelance opportunities.
+- 🌱 I’m currently working on an e-commerce project. Using React, Context, Firebase and Stripe.
 - 📫 How to reach me: shay[dot]asanova[at]gmail.com
-- ⚡ Fun fact: Did you know that one of Saturn's moon - [mimas](https://en.wikipedia.org/wiki/Mimas_(moon)), lookes exacty like the "DEATH STAR"? If you did, lets be friends.
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -15,9 +15,9 @@
                   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
                   <a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
                   </a>
-                  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-                  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-                  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+                  
+                 
+                  
                   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
                   <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
                   <a href="https://mui.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
@@ -30,12 +30,8 @@
                   </a>
                   <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
                   </a>
-                  <a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
-                  </a>
+                 
                   <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
                   </a>
-                  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
-                  <a href="https://id.heroku.com/login">
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/>
-                  </a>
+                
                   </p>

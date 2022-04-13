@@ -1,9 +1,9 @@
 <!-- ![](https://github.com/shay122990/shay122990/blob/master/Shay%20Asanova.png) -->
 ### Hi there 👋
 
-- 🌚 I'm Shay, Im an ex Emirates cabin crew now Frontend developer in Dubai.
+- 🌚 I'm Shay, Im a Frontend developer in Dubai.
 - 🔭 I’m open to frontend positions and freelance opportunities.
-- 🌱 I’m currently working on an e-commerce project. Using React, Context, Firebase and Stripe.
+- 🌱 I’m currently working on an e-commerce project. Using React, Redux ,Firebase and Stripe.
 - 📫 How to reach me: shay[dot]asanova[at]gmail.com
 
 

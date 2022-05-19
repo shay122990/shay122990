@@ -4,6 +4,7 @@
 - 🌚 I'm Shay, Im a Frontend developer in Dubai.
 - 🔭 I’m open to frontend positions and freelance opportunities.
 - 🌱 I’m currently working on an e-commerce project. Using React, Redux ,Firebase and Stripe.
+- 📋 Currently learning TypeScript. 
 - 📫 How to reach me: shay[dot]asanova[at]gmail.com
 
 

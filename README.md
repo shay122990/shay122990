@@ -1,10 +1,10 @@
 <!-- ![](https://github.com/shay122990/shay122990/blob/master/Shay%20Asanova.png) -->
 ### Hi there 👋
 
-- 🌚 I'm Shay, Im a Frontend developer in Dubai.
+- 🌚 I'm Shay, Im a React developer in Dubai.
 - 🔭 I’m open to frontend positions and freelance opportunities.
 - 🌱 I’m currently working on an e-commerce project. Using React, Redux ,Firebase and Stripe.
-- 📋 Currently learning TypeScript. 
+- 📋 Currently learning TypeScript and NextJs
 - 📫 How to reach me: shay[dot]asanova[at]gmail.com
 
 

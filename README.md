@@ -2,7 +2,6 @@
 ### Hi there 👋
 
 - 🌚 I'm Shay, Im a React developer in Dubai.
-- 📋 Currently learning TypeScript and NextJs
 - 📫 How to reach me: shay[dot]asanova[at]gmail.com
 
 

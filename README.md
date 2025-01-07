@@ -3,6 +3,7 @@
 
 - 🌚 I'm Shay, Im a React developer in Dubai.
 - 📫 How to reach me: shay[dot]asanova[at]gmail.com
+  
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,3 +19,7 @@
                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40" />
 </p>
+
+
+[shayasanova.com 
+](https://www.shay-asanova.com/)
